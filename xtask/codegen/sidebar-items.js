@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["AST",""],["GRAMMAR",""],["SYNTAX_KINDS",""]],"enum":[["Mode",""]],"fn":[["generate_assists_docs",""],["generate_parser_tests",""],["generate_syntax",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["BuiltinShadowMode","Shadow mode for builtin type which can be shadowed by module."],["ModuleOrigin",""],["ModuleSource",""]],"struct":[["CrateDefMap","Contains all top-level defs from a macro-expanded crate"],["ModuleData",""],["ModuleScope",""],["Resolution",""]]});

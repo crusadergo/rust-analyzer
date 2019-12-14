@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ExprScopes",""],["ScopeData",""],["ScopeEntry",""],["ScopeId",""]]});

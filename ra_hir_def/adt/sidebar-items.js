@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["VariantData",""]],"struct":[["EnumData",""],["EnumVariantData",""],["StructData","Note that we use `StructData` for unions as well!"],["StructFieldData","A single field of an enum variant or struct"]]});
